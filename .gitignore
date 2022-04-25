@@ -4,3 +4,6 @@ xfuzz-test-*
 __pychche__
 *.pyc
 .vscode
+*.tar.gz
+*.zip
+libaio-libaio-*

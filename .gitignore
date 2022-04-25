@@ -1,0 +1,6 @@
+build/
+build-*/
+xfuzz-test-*
+__pychche__
+*.pyc
+.vscode
